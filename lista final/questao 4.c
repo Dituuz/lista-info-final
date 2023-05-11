@@ -2,7 +2,7 @@
 
 int main()
 {
-    int num=0;
+    int num=1;
     printf("Numeros impares de 1 a 100:\n");
     while (num<=100)
     {
