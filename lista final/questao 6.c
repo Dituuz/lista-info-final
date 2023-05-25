@@ -17,7 +17,11 @@ int main()
     r=pow(soma , 0.5);
     d= num1 - num2;
     seno= sin(d);
-    printf("%f", seno);
+    printf("\nA soma dos números: %f\n", s);
+    printf("\nO produto do primeiro número pelo quadrado do segundo: %f\n", p);
+    printf("\nO quadrado do primeiro número: %f\n", q);
+    printf("\nA raiz quadrada da soma dos quadrados: %f\n", r);
+    printf("\nO seno da diferença do primeiro número pelo segundo: %f\n", seno);
 
     return 0;
 }
